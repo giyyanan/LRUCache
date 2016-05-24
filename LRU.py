@@ -69,3 +69,9 @@ class LRUCache(object):
     	print "\nCache List is\n"
     	self.list.printList()
     	print "Cache Store is \n",self.store
+
+    def getStore(self):
+    	return self.store
+
+    def getListSize(self):
+    	return self.list.getSize()

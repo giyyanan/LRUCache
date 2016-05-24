@@ -1,0 +1,2610 @@
+In setUp()
+Cache set with size  10
+
+Cache Store is 
+
+{}
+Test : Cache with String values
+Cache miss..
+Cache List is
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+-3531695558007812265
+setting the search Value in store with key -3531695558007812265
+Cache Store is 
+{-3531695558007812265: 'Harry'}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+-3531695558007812265
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+5317356584733462739
+-3531695558007812265
+setting the search Value in store with key 5317356584733462739
+Cache Store is 
+{5317356584733462739: 'Archer', -3531695558007812265: 'Harry'}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+5317356584733462739
+-3531695558007812265
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+6376847262638276866
+5317356584733462739
+-3531695558007812265
+setting the search Value in store with key 6376847262638276866
+Cache Store is 
+{6376847262638276866: 'Dexter', 5317356584733462739: 'Archer', -3531695558007812265: 'Harry'}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+6376847262638276866
+5317356584733462739
+-3531695558007812265
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+4922682573780898830
+6376847262638276866
+5317356584733462739
+-3531695558007812265
+setting the search Value in store with key 4922682573780898830
+Cache Store is 
+{6376847262638276866: 'Dexter', 5317356584733462739: 'Archer', 4922682573780898830: 'Seinfield', -3531695558007812265: 'Harry'}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+4922682573780898830
+6376847262638276866
+5317356584733462739
+-3531695558007812265
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+8061274148955888060
+4922682573780898830
+6376847262638276866
+5317356584733462739
+-3531695558007812265
+setting the search Value in store with key 8061274148955888060
+Cache Store is 
+{6376847262638276866: 'Dexter', 5317356584733462739: 'Archer', 8061274148955888060: 'Friends', 4922682573780898830: 'Seinfield', -3531695558007812265: 'Harry'}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+8061274148955888060
+4922682573780898830
+6376847262638276866
+5317356584733462739
+-3531695558007812265
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+-8756915146485169563
+8061274148955888060
+4922682573780898830
+6376847262638276866
+5317356584733462739
+-3531695558007812265
+setting the search Value in store with key -8756915146485169563
+Cache Store is 
+{6376847262638276866: 'Dexter', -8756915146485169563: 'Shield', 4922682573780898830: 'Seinfield', 5317356584733462739: 'Archer', -3531695558007812265: 'Harry', 8061274148955888060: 'Friends'}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+-8756915146485169563
+8061274148955888060
+4922682573780898830
+6376847262638276866
+5317356584733462739
+-3531695558007812265
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+-728191073887097338
+-8756915146485169563
+8061274148955888060
+4922682573780898830
+6376847262638276866
+5317356584733462739
+-3531695558007812265
+setting the search Value in store with key -728191073887097338
+Cache Store is 
+{6376847262638276866: 'Dexter', -8756915146485169563: 'Shield', -728191073887097338: 'Vikings', 4922682573780898830: 'Seinfield', 5317356584733462739: 'Archer', -3531695558007812265: 'Harry', 8061274148955888060: 'Friends'}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+-728191073887097338
+-8756915146485169563
+8061274148955888060
+4922682573780898830
+6376847262638276866
+5317356584733462739
+-3531695558007812265
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+-2105068797262984701
+-728191073887097338
+-8756915146485169563
+8061274148955888060
+4922682573780898830
+6376847262638276866
+5317356584733462739
+-3531695558007812265
+setting the search Value in store with key -2105068797262984701
+Cache Store is 
+{6376847262638276866: 'Dexter', -2105068797262984701: 'Grimm', -8756915146485169563: 'Shield', -728191073887097338: 'Vikings', 4922682573780898830: 'Seinfield', 5317356584733462739: 'Archer', -3531695558007812265: 'Harry', 8061274148955888060: 'Friends'}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+-2105068797262984701
+-728191073887097338
+-8756915146485169563
+8061274148955888060
+4922682573780898830
+6376847262638276866
+5317356584733462739
+-3531695558007812265
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+-201064995106876445
+-2105068797262984701
+-728191073887097338
+-8756915146485169563
+8061274148955888060
+4922682573780898830
+6376847262638276866
+5317356584733462739
+-3531695558007812265
+setting the search Value in store with key -201064995106876445
+Cache Store is 
+{6376847262638276866: 'Dexter', -2105068797262984701: 'Grimm', -8756915146485169563: 'Shield', -728191073887097338: 'Vikings', 4922682573780898830: 'Seinfield', 5317356584733462739: 'Archer', -3531695558007812265: 'Harry', 8061274148955888060: 'Friends', -201064995106876445: 'Google'}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+-201064995106876445
+-2105068797262984701
+-728191073887097338
+-8756915146485169563
+8061274148955888060
+4922682573780898830
+6376847262638276866
+5317356584733462739
+-3531695558007812265
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+-8781860034246656723
+-201064995106876445
+-2105068797262984701
+-728191073887097338
+-8756915146485169563
+8061274148955888060
+4922682573780898830
+6376847262638276866
+5317356584733462739
+-3531695558007812265
+setting the search Value in store with key -8781860034246656723
+Cache Store is 
+{6376847262638276866: 'Dexter', -2105068797262984701: 'Grimm', -8756915146485169563: 'Shield', -728191073887097338: 'Vikings', -8781860034246656723: 'Yahoo', 4922682573780898830: 'Seinfield', 5317356584733462739: 'Archer', -3531695558007812265: 'Harry', 8061274148955888060: 'Friends', -201064995106876445: 'Google'}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+-8781860034246656723
+-201064995106876445
+-2105068797262984701
+-728191073887097338
+-8756915146485169563
+8061274148955888060
+4922682573780898830
+6376847262638276866
+5317356584733462739
+-3531695558007812265
+
+
+adding to the Cache 
+
+Cache size exceeded.removing the last item from cache list
+Cache Store is 
+{6376847262638276866: 'Dexter', -2105068797262984701: 'Grimm', -8756915146485169563: 'Shield', -728191073887097338: 'Vikings', -8781860034246656723: 'Yahoo', 4922682573780898830: 'Seinfield', 5317356584733462739: 'Archer', 8061274148955888060: 'Friends', -201064995106876445: 'Google'} 
+
+
+New Cache List is 
+
+3021726190866786059
+-8781860034246656723
+-201064995106876445
+-2105068797262984701
+-728191073887097338
+-8756915146485169563
+8061274148955888060
+4922682573780898830
+6376847262638276866
+5317356584733462739
+setting the search Value in store with key 3021726190866786059
+Cache Store is 
+{6376847262638276866: 'Dexter', -2105068797262984701: 'Grimm', -8756915146485169563: 'Shield', -728191073887097338: 'Vikings', 3021726190866786059: 'Saleforce', -8781860034246656723: 'Yahoo', 4922682573780898830: 'Seinfield', 5317356584733462739: 'Archer', 8061274148955888060: 'Friends', -201064995106876445: 'Google'}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+3021726190866786059
+-8781860034246656723
+-201064995106876445
+-2105068797262984701
+-728191073887097338
+-8756915146485169563
+8061274148955888060
+4922682573780898830
+6376847262638276866
+5317356584733462739
+
+
+adding to the Cache 
+
+Cache size exceeded.removing the last item from cache list
+Cache Store is 
+{6376847262638276866: 'Dexter', -2105068797262984701: 'Grimm', -8756915146485169563: 'Shield', -728191073887097338: 'Vikings', 3021726190866786059: 'Saleforce', -8781860034246656723: 'Yahoo', 4922682573780898830: 'Seinfield', 8061274148955888060: 'Friends', -201064995106876445: 'Google'} 
+
+
+New Cache List is 
+
+-6598467229008937334
+3021726190866786059
+-8781860034246656723
+-201064995106876445
+-2105068797262984701
+-728191073887097338
+-8756915146485169563
+8061274148955888060
+4922682573780898830
+6376847262638276866
+setting the search Value in store with key -6598467229008937334
+Cache Store is 
+{6376847262638276866: 'Dexter', -2105068797262984701: 'Grimm', -8756915146485169563: 'Shield', -728191073887097338: 'Vikings', -6598467229008937334: 'twitter', 3021726190866786059: 'Saleforce', -8781860034246656723: 'Yahoo', 4922682573780898830: 'Seinfield', 8061274148955888060: 'Friends', -201064995106876445: 'Google'}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+-6598467229008937334
+3021726190866786059
+-8781860034246656723
+-201064995106876445
+-2105068797262984701
+-728191073887097338
+-8756915146485169563
+8061274148955888060
+4922682573780898830
+6376847262638276866
+
+
+adding to the Cache 
+
+Cache size exceeded.removing the last item from cache list
+Cache Store is 
+{-2105068797262984701: 'Grimm', -8756915146485169563: 'Shield', -728191073887097338: 'Vikings', -6598467229008937334: 'twitter', 3021726190866786059: 'Saleforce', -8781860034246656723: 'Yahoo', 4922682573780898830: 'Seinfield', 8061274148955888060: 'Friends', -201064995106876445: 'Google'} 
+
+
+New Cache List is 
+
+3162525260849330260
+-6598467229008937334
+3021726190866786059
+-8781860034246656723
+-201064995106876445
+-2105068797262984701
+-728191073887097338
+-8756915146485169563
+8061274148955888060
+4922682573780898830
+setting the search Value in store with key 3162525260849330260
+Cache Store is 
+{-2105068797262984701: 'Grimm', -8756915146485169563: 'Shield', -728191073887097338: 'Vikings', -6598467229008937334: 'twitter', 3021726190866786059: 'Saleforce', -8781860034246656723: 'Yahoo', 4922682573780898830: 'Seinfield', 3162525260849330260: 'facebook', 8061274148955888060: 'Friends', -201064995106876445: 'Google'}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+3162525260849330260
+-6598467229008937334
+3021726190866786059
+-8781860034246656723
+-201064995106876445
+-2105068797262984701
+-728191073887097338
+-8756915146485169563
+8061274148955888060
+4922682573780898830
+
+
+adding to the Cache 
+
+Cache size exceeded.removing the last item from cache list
+Cache Store is 
+{-2105068797262984701: 'Grimm', -8756915146485169563: 'Shield', -728191073887097338: 'Vikings', -6598467229008937334: 'twitter', 3021726190866786059: 'Saleforce', -8781860034246656723: 'Yahoo', 3162525260849330260: 'facebook', 8061274148955888060: 'Friends', -201064995106876445: 'Google'} 
+
+
+New Cache List is 
+
+-8502831814997350055
+3162525260849330260
+-6598467229008937334
+3021726190866786059
+-8781860034246656723
+-201064995106876445
+-2105068797262984701
+-728191073887097338
+-8756915146485169563
+8061274148955888060
+setting the search Value in store with key -8502831814997350055
+Cache Store is 
+{-2105068797262984701: 'Grimm', -8756915146485169563: 'Shield', -728191073887097338: 'Vikings', -6598467229008937334: 'twitter', 3021726190866786059: 'Saleforce', -8781860034246656723: 'Yahoo', 3162525260849330260: 'facebook', -8502831814997350055: 'capio', 8061274148955888060: 'Friends', -201064995106876445: 'Google'}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+-8502831814997350055
+3162525260849330260
+-6598467229008937334
+3021726190866786059
+-8781860034246656723
+-201064995106876445
+-2105068797262984701
+-728191073887097338
+-8756915146485169563
+8061274148955888060
+
+
+adding to the Cache 
+
+Cache size exceeded.removing the last item from cache list
+Cache Store is 
+{-2105068797262984701: 'Grimm', -8756915146485169563: 'Shield', -728191073887097338: 'Vikings', -6598467229008937334: 'twitter', 3021726190866786059: 'Saleforce', -8781860034246656723: 'Yahoo', 3162525260849330260: 'facebook', -8502831814997350055: 'capio', -201064995106876445: 'Google'} 
+
+
+New Cache List is 
+
+-2359742753373747800
+-8502831814997350055
+3162525260849330260
+-6598467229008937334
+3021726190866786059
+-8781860034246656723
+-201064995106876445
+-2105068797262984701
+-728191073887097338
+-8756915146485169563
+setting the search Value in store with key -2359742753373747800
+Cache Store is 
+{-2105068797262984701: 'Grimm', -8756915146485169563: 'Shield', -728191073887097338: 'Vikings', -2359742753373747800: 'Python', -6598467229008937334: 'twitter', 3021726190866786059: 'Saleforce', -8781860034246656723: 'Yahoo', 3162525260849330260: 'facebook', -8502831814997350055: 'capio', -201064995106876445: 'Google'}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+-2359742753373747800
+-8502831814997350055
+3162525260849330260
+-6598467229008937334
+3021726190866786059
+-8781860034246656723
+-201064995106876445
+-2105068797262984701
+-728191073887097338
+-8756915146485169563
+
+
+adding to the Cache 
+
+Cache size exceeded.removing the last item from cache list
+Cache Store is 
+{-2105068797262984701: 'Grimm', -728191073887097338: 'Vikings', -2359742753373747800: 'Python', -6598467229008937334: 'twitter', 3021726190866786059: 'Saleforce', -8781860034246656723: 'Yahoo', 3162525260849330260: 'facebook', -8502831814997350055: 'capio', -201064995106876445: 'Google'} 
+
+
+New Cache List is 
+
+-2338026935110240988
+-2359742753373747800
+-8502831814997350055
+3162525260849330260
+-6598467229008937334
+3021726190866786059
+-8781860034246656723
+-201064995106876445
+-2105068797262984701
+-728191073887097338
+setting the search Value in store with key -2338026935110240988
+Cache Store is 
+{-2105068797262984701: 'Grimm', -2338026935110240988: 'java', -728191073887097338: 'Vikings', -2359742753373747800: 'Python', -6598467229008937334: 'twitter', 3021726190866786059: 'Saleforce', -8781860034246656723: 'Yahoo', 3162525260849330260: 'facebook', -8502831814997350055: 'capio', -201064995106876445: 'Google'}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+-2338026935110240988
+-2359742753373747800
+-8502831814997350055
+3162525260849330260
+-6598467229008937334
+3021726190866786059
+-8781860034246656723
+-201064995106876445
+-2105068797262984701
+-728191073887097338
+
+
+adding to the Cache 
+
+Cache size exceeded.removing the last item from cache list
+Cache Store is 
+{-2105068797262984701: 'Grimm', -2338026935110240988: 'java', -2359742753373747800: 'Python', -6598467229008937334: 'twitter', 3021726190866786059: 'Saleforce', -8781860034246656723: 'Yahoo', 3162525260849330260: 'facebook', -8502831814997350055: 'capio', -201064995106876445: 'Google'} 
+
+
+New Cache List is 
+
+-5999452984715080672
+-2338026935110240988
+-2359742753373747800
+-8502831814997350055
+3162525260849330260
+-6598467229008937334
+3021726190866786059
+-8781860034246656723
+-201064995106876445
+-2105068797262984701
+setting the search Value in store with key -5999452984715080672
+Cache Store is 
+{-5999452984715080672: 'xml', -2105068797262984701: 'Grimm', -2338026935110240988: 'java', -2359742753373747800: 'Python', -6598467229008937334: 'twitter', 3021726190866786059: 'Saleforce', -8781860034246656723: 'Yahoo', 3162525260849330260: 'facebook', -8502831814997350055: 'capio', -201064995106876445: 'Google'}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+-5999452984715080672
+-2338026935110240988
+-2359742753373747800
+-8502831814997350055
+3162525260849330260
+-6598467229008937334
+3021726190866786059
+-8781860034246656723
+-201064995106876445
+-2105068797262984701
+
+
+adding to the Cache 
+
+Cache size exceeded.removing the last item from cache list
+Cache Store is 
+{-5999452984715080672: 'xml', -2338026935110240988: 'java', -2359742753373747800: 'Python', -6598467229008937334: 'twitter', 3021726190866786059: 'Saleforce', -8781860034246656723: 'Yahoo', 3162525260849330260: 'facebook', -8502831814997350055: 'capio', -201064995106876445: 'Google'} 
+
+
+New Cache List is 
+
+7799575877465763251
+-5999452984715080672
+-2338026935110240988
+-2359742753373747800
+-8502831814997350055
+3162525260849330260
+-6598467229008937334
+3021726190866786059
+-8781860034246656723
+-201064995106876445
+setting the search Value in store with key 7799575877465763251
+Cache Store is 
+{-5999452984715080672: 'xml', -2338026935110240988: 'java', -2359742753373747800: 'Python', -6598467229008937334: 'twitter', 3021726190866786059: 'Saleforce', -8781860034246656723: 'Yahoo', 7799575877465763251: 'html', 3162525260849330260: 'facebook', -8502831814997350055: 'capio', -201064995106876445: 'Google'}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+7799575877465763251
+-5999452984715080672
+-2338026935110240988
+-2359742753373747800
+-8502831814997350055
+3162525260849330260
+-6598467229008937334
+3021726190866786059
+-8781860034246656723
+-201064995106876445
+
+
+adding to the Cache 
+
+Cache size exceeded.removing the last item from cache list
+Cache Store is 
+{-5999452984715080672: 'xml', -2338026935110240988: 'java', -2359742753373747800: 'Python', -6598467229008937334: 'twitter', 3021726190866786059: 'Saleforce', -8781860034246656723: 'Yahoo', 7799575877465763251: 'html', 3162525260849330260: 'facebook', -8502831814997350055: 'capio'} 
+
+
+New Cache List is 
+
+-1782981222247821945
+7799575877465763251
+-5999452984715080672
+-2338026935110240988
+-2359742753373747800
+-8502831814997350055
+3162525260849330260
+-6598467229008937334
+3021726190866786059
+-8781860034246656723
+setting the search Value in store with key -1782981222247821945
+Cache Store is 
+{-5999452984715080672: 'xml', -2338026935110240988: 'java', -1782981222247821945: 'random strings to test String Caching', -2359742753373747800: 'Python', -6598467229008937334: 'twitter', 3021726190866786059: 'Saleforce', -8781860034246656723: 'Yahoo', 7799575877465763251: 'html', 3162525260849330260: 'facebook', -8502831814997350055: 'capio'}
+
+Value available in the Store is
+
+{-5999452984715080672: 'xml', -2338026935110240988: 'java', -1782981222247821945: 'random strings to test String Caching', -2359742753373747800: 'Python', -6598467229008937334: 'twitter', 3021726190866786059: 'Saleforce', -8781860034246656723: 'Yahoo', 7799575877465763251: 'html', 3162525260849330260: 'facebook', -8502831814997350055: 'capio'}
+In tearDown()
+In setUp()
+Cache set with size  10
+
+Cache Store is 
+
+{}
+Test : Cache hits  and misses for repeating values
+Cache miss..
+Cache List is
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+1
+setting the search Value in store with key 1
+Cache Store is 
+{1: 1}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+2
+1
+setting the search Value in store with key 2
+Cache Store is 
+{1: 1, 2: 2}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+2
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+3
+2
+1
+setting the search Value in store with key 3
+Cache Store is 
+{1: 1, 2: 2, 3: 3}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+3
+2
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+4
+3
+2
+1
+setting the search Value in store with key 4
+Cache Store is 
+{1: 1, 2: 2, 3: 3, 4: 4}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+4
+3
+2
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+5
+4
+3
+2
+1
+setting the search Value in store with key 5
+Cache Store is 
+{1: 1, 2: 2, 3: 3, 4: 4, 5: 5}
+
+Value available in the Store is
+
+Cache hit..fetching value from Cache
+setting the value to most recent in Cache List
+Cache List is
+1
+5
+4
+3
+2
+
+
+Cache hit..fetching value from Cache
+setting the value to most recent in Cache List
+Cache List is
+2
+1
+5
+4
+3
+
+
+Cache hit..fetching value from Cache
+setting the value to most recent in Cache List
+Cache List is
+3
+2
+1
+5
+4
+
+
+Cache hit..fetching value from Cache
+setting the value to most recent in Cache List
+Cache List is
+4
+3
+2
+1
+5
+
+
+Cache hit..fetching value from Cache
+setting the value to most recent in Cache List
+Cache List is
+5
+4
+3
+2
+1
+
+
+Cache miss..
+Cache List is
+5
+4
+3
+2
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+6
+5
+4
+3
+2
+1
+setting the search Value in store with key 6
+Cache Store is 
+{1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 6: 6}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+6
+5
+4
+3
+2
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+7
+6
+5
+4
+3
+2
+1
+setting the search Value in store with key 7
+Cache Store is 
+{1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 6: 6, 7: 7}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+7
+6
+5
+4
+3
+2
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+8
+7
+6
+5
+4
+3
+2
+1
+setting the search Value in store with key 8
+Cache Store is 
+{1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 6: 6, 7: 7, 8: 8}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+8
+7
+6
+5
+4
+3
+2
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+9
+8
+7
+6
+5
+4
+3
+2
+1
+setting the search Value in store with key 9
+Cache Store is 
+{1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 6: 6, 7: 7, 8: 8, 9: 9}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+9
+8
+7
+6
+5
+4
+3
+2
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+setting the search Value in store with key 10
+Cache Store is 
+{1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 6: 6, 7: 7, 8: 8, 9: 9, 10: 10}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+
+
+adding to the Cache 
+
+Cache size exceeded.removing the last item from cache list
+Cache Store is 
+{2: 2, 3: 3, 4: 4, 5: 5, 6: 6, 7: 7, 8: 8, 9: 9, 10: 10} 
+
+
+New Cache List is 
+
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+setting the search Value in store with key 11
+Cache Store is 
+{2: 2, 3: 3, 4: 4, 5: 5, 6: 6, 7: 7, 8: 8, 9: 9, 10: 10, 11: 11}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+
+
+adding to the Cache 
+
+Cache size exceeded.removing the last item from cache list
+Cache Store is 
+{3: 3, 4: 4, 5: 5, 6: 6, 7: 7, 8: 8, 9: 9, 10: 10, 11: 11} 
+
+
+New Cache List is 
+
+1
+11
+10
+9
+8
+7
+6
+5
+4
+3
+setting the search Value in store with key 1
+Cache Store is 
+{1: 1, 3: 3, 4: 4, 5: 5, 6: 6, 7: 7, 8: 8, 9: 9, 10: 10, 11: 11}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+1
+11
+10
+9
+8
+7
+6
+5
+4
+3
+
+
+adding to the Cache 
+
+Cache size exceeded.removing the last item from cache list
+Cache Store is 
+{1: 1, 4: 4, 5: 5, 6: 6, 7: 7, 8: 8, 9: 9, 10: 10, 11: 11} 
+
+
+New Cache List is 
+
+2
+1
+11
+10
+9
+8
+7
+6
+5
+4
+setting the search Value in store with key 2
+Cache Store is 
+{1: 1, 2: 2, 4: 4, 5: 5, 6: 6, 7: 7, 8: 8, 9: 9, 10: 10, 11: 11}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+2
+1
+11
+10
+9
+8
+7
+6
+5
+4
+
+
+adding to the Cache 
+
+Cache size exceeded.removing the last item from cache list
+Cache Store is 
+{1: 1, 2: 2, 5: 5, 6: 6, 7: 7, 8: 8, 9: 9, 10: 10, 11: 11} 
+
+
+New Cache List is 
+
+3
+2
+1
+11
+10
+9
+8
+7
+6
+5
+setting the search Value in store with key 3
+Cache Store is 
+{1: 1, 2: 2, 3: 3, 5: 5, 6: 6, 7: 7, 8: 8, 9: 9, 10: 10, 11: 11}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+3
+2
+1
+11
+10
+9
+8
+7
+6
+5
+
+
+adding to the Cache 
+
+Cache size exceeded.removing the last item from cache list
+Cache Store is 
+{1: 1, 2: 2, 3: 3, 6: 6, 7: 7, 8: 8, 9: 9, 10: 10, 11: 11} 
+
+
+New Cache List is 
+
+4
+3
+2
+1
+11
+10
+9
+8
+7
+6
+setting the search Value in store with key 4
+Cache Store is 
+{1: 1, 2: 2, 3: 3, 4: 4, 6: 6, 7: 7, 8: 8, 9: 9, 10: 10, 11: 11}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+4
+3
+2
+1
+11
+10
+9
+8
+7
+6
+
+
+adding to the Cache 
+
+Cache size exceeded.removing the last item from cache list
+Cache Store is 
+{1: 1, 2: 2, 3: 3, 4: 4, 7: 7, 8: 8, 9: 9, 10: 10, 11: 11} 
+
+
+New Cache List is 
+
+5
+4
+3
+2
+1
+11
+10
+9
+8
+7
+setting the search Value in store with key 5
+Cache Store is 
+{1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 7: 7, 8: 8, 9: 9, 10: 10, 11: 11}
+
+Value available in the Store is
+
+{1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 7: 7, 8: 8, 9: 9, 10: 10, 11: 11}
+In tearDown()
+In setUp()
+Cache set with size  10
+
+Cache Store is 
+
+{}
+Test : Cache alternating Values
+Cache miss..
+Cache List is
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+1
+setting the search Value in store with key 1
+Cache Store is 
+{1: 1}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+2
+1
+setting the search Value in store with key 2
+Cache Store is 
+{1: 1, 2: 2}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+2
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+3
+2
+1
+setting the search Value in store with key 3
+Cache Store is 
+{1: 1, 2: 2, 3: 3}
+
+Value available in the Store is
+
+Cache hit..fetching value from Cache
+setting the value to most recent in Cache List
+Cache List is
+2
+3
+1
+
+
+Cache hit..fetching value from Cache
+setting the value to most recent in Cache List
+Cache List is
+1
+2
+3
+
+
+Cache hit..fetching value from Cache
+setting the value to most recent in Cache List
+Cache List is
+3
+1
+2
+
+
+Cache hit..fetching value from Cache
+setting the value to most recent in Cache List
+Cache List is
+1
+3
+2
+
+
+Cache hit..fetching value from Cache
+setting the value to most recent in Cache List
+Cache List is
+3
+1
+2
+
+
+Cache hit..fetching value from Cache
+setting the value to most recent in Cache List
+Cache List is
+2
+3
+1
+
+
+Cache hit..fetching value from Cache
+setting the value to most recent in Cache List
+Cache List is
+3
+2
+1
+
+
+Cache hit..fetching value from Cache
+setting the value to most recent in Cache List
+Cache List is
+1
+3
+2
+
+
+Cache hit..fetching value from Cache
+setting the value to most recent in Cache List
+Cache List is
+2
+1
+3
+
+
+Cache hit..fetching value from Cache
+setting the value to most recent in Cache List
+Cache List is
+3
+2
+1
+
+
+Cache hit..fetching value from Cache
+setting the value to most recent in Cache List
+Cache List is
+2
+3
+1
+
+
+Cache hit..fetching value from Cache
+setting the value to most recent in Cache List
+Cache List is
+1
+2
+3
+
+
+{1: 1, 2: 2, 3: 3}
+In tearDown()
+In setUp()
+Cache set with size  10
+
+Cache Store is 
+
+{}
+Test : Cache with single value
+In tearDown()
+In setUp()
+Cache set with size  10
+
+Cache Store is 
+
+{}
+Test : Cache full size
+Cache miss..
+Cache List is
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+1
+setting the search Value in store with key 1
+Cache Store is 
+{1: 1}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+2
+1
+setting the search Value in store with key 2
+Cache Store is 
+{1: 1, 2: 2}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+2
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+3
+2
+1
+setting the search Value in store with key 3
+Cache Store is 
+{1: 1, 2: 2, 3: 3}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+3
+2
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+4
+3
+2
+1
+setting the search Value in store with key 4
+Cache Store is 
+{1: 1, 2: 2, 3: 3, 4: 4}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+4
+3
+2
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+5
+4
+3
+2
+1
+setting the search Value in store with key 5
+Cache Store is 
+{1: 1, 2: 2, 3: 3, 4: 4, 5: 5}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+5
+4
+3
+2
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+6
+5
+4
+3
+2
+1
+setting the search Value in store with key 6
+Cache Store is 
+{1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 6: 6}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+6
+5
+4
+3
+2
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+7
+6
+5
+4
+3
+2
+1
+setting the search Value in store with key 7
+Cache Store is 
+{1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 6: 6, 7: 7}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+7
+6
+5
+4
+3
+2
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+8
+7
+6
+5
+4
+3
+2
+1
+setting the search Value in store with key 8
+Cache Store is 
+{1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 6: 6, 7: 7, 8: 8}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+8
+7
+6
+5
+4
+3
+2
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+9
+8
+7
+6
+5
+4
+3
+2
+1
+setting the search Value in store with key 9
+Cache Store is 
+{1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 6: 6, 7: 7, 8: 8, 9: 9}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+9
+8
+7
+6
+5
+4
+3
+2
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+0
+9
+8
+7
+6
+5
+4
+3
+2
+1
+setting the search Value in store with key 0
+Cache Store is 
+{0: 0, 1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 6: 6, 7: 7, 8: 8, 9: 9}
+
+Value available in the Store is
+
+{0: 0, 1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 6: 6, 7: 7, 8: 8, 9: 9}
+In tearDown()
+In setUp()
+Cache set with size  10
+
+Cache Store is 
+
+{}
+Test : Cache with single value
+Cache miss..
+Cache List is
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+1
+setting the search Value in store with key 1
+Cache Store is 
+{1: 1}
+
+Value available in the Store is
+
+{1: 1}
+In tearDown()
+In setUp()
+Cache set with size  10
+
+Cache Store is 
+
+{}
+Test : Cache overflow
+Cache miss..
+Cache List is
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+1
+setting the search Value in store with key 1
+Cache Store is 
+{1: 1}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+2
+1
+setting the search Value in store with key 2
+Cache Store is 
+{1: 1, 2: 2}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+2
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+3
+2
+1
+setting the search Value in store with key 3
+Cache Store is 
+{1: 1, 2: 2, 3: 3}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+3
+2
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+4
+3
+2
+1
+setting the search Value in store with key 4
+Cache Store is 
+{1: 1, 2: 2, 3: 3, 4: 4}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+4
+3
+2
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+5
+4
+3
+2
+1
+setting the search Value in store with key 5
+Cache Store is 
+{1: 1, 2: 2, 3: 3, 4: 4, 5: 5}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+5
+4
+3
+2
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+6
+5
+4
+3
+2
+1
+setting the search Value in store with key 6
+Cache Store is 
+{1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 6: 6}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+6
+5
+4
+3
+2
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+7
+6
+5
+4
+3
+2
+1
+setting the search Value in store with key 7
+Cache Store is 
+{1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 6: 6, 7: 7}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+7
+6
+5
+4
+3
+2
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+8
+7
+6
+5
+4
+3
+2
+1
+setting the search Value in store with key 8
+Cache Store is 
+{1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 6: 6, 7: 7, 8: 8}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+8
+7
+6
+5
+4
+3
+2
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+9
+8
+7
+6
+5
+4
+3
+2
+1
+setting the search Value in store with key 9
+Cache Store is 
+{1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 6: 6, 7: 7, 8: 8, 9: 9}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+9
+8
+7
+6
+5
+4
+3
+2
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+0
+9
+8
+7
+6
+5
+4
+3
+2
+1
+setting the search Value in store with key 0
+Cache Store is 
+{0: 0, 1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 6: 6, 7: 7, 8: 8, 9: 9}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+0
+9
+8
+7
+6
+5
+4
+3
+2
+1
+
+
+adding to the Cache 
+
+Cache size exceeded.removing the last item from cache list
+Cache Store is 
+{0: 0, 2: 2, 3: 3, 4: 4, 5: 5, 6: 6, 7: 7, 8: 8, 9: 9} 
+
+
+New Cache List is 
+
+16
+0
+9
+8
+7
+6
+5
+4
+3
+2
+setting the search Value in store with key 16
+Cache Store is 
+{0: 0, 2: 2, 3: 3, 4: 4, 5: 5, 6: 6, 7: 7, 8: 8, 9: 9, 16: 16}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+16
+0
+9
+8
+7
+6
+5
+4
+3
+2
+
+
+adding to the Cache 
+
+Cache size exceeded.removing the last item from cache list
+Cache Store is 
+{0: 0, 3: 3, 4: 4, 5: 5, 6: 6, 7: 7, 8: 8, 9: 9, 16: 16} 
+
+
+New Cache List is 
+
+27
+16
+0
+9
+8
+7
+6
+5
+4
+3
+setting the search Value in store with key 27
+Cache Store is 
+{0: 0, 3: 3, 4: 4, 5: 5, 6: 6, 7: 7, 8: 8, 9: 9, 16: 16, 27: 27}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+27
+16
+0
+9
+8
+7
+6
+5
+4
+3
+
+
+adding to the Cache 
+
+Cache size exceeded.removing the last item from cache list
+Cache Store is 
+{0: 0, 4: 4, 5: 5, 6: 6, 7: 7, 8: 8, 9: 9, 16: 16, 27: 27} 
+
+
+New Cache List is 
+
+38
+27
+16
+0
+9
+8
+7
+6
+5
+4
+setting the search Value in store with key 38
+Cache Store is 
+{0: 0, 4: 4, 5: 5, 6: 6, 7: 7, 8: 8, 9: 9, 38: 38, 16: 16, 27: 27}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+38
+27
+16
+0
+9
+8
+7
+6
+5
+4
+
+
+adding to the Cache 
+
+Cache size exceeded.removing the last item from cache list
+Cache Store is 
+{0: 0, 5: 5, 6: 6, 7: 7, 8: 8, 9: 9, 38: 38, 16: 16, 27: 27} 
+
+
+New Cache List is 
+
+49
+38
+27
+16
+0
+9
+8
+7
+6
+5
+setting the search Value in store with key 49
+Cache Store is 
+{0: 0, 5: 5, 6: 6, 7: 7, 8: 8, 9: 9, 38: 38, 16: 16, 49: 49, 27: 27}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+49
+38
+27
+16
+0
+9
+8
+7
+6
+5
+
+
+adding to the Cache 
+
+Cache size exceeded.removing the last item from cache list
+Cache Store is 
+{0: 0, 6: 6, 7: 7, 8: 8, 9: 9, 38: 38, 16: 16, 49: 49, 27: 27} 
+
+
+New Cache List is 
+
+50
+49
+38
+27
+16
+0
+9
+8
+7
+6
+setting the search Value in store with key 50
+Cache Store is 
+{0: 0, 6: 6, 7: 7, 8: 8, 9: 9, 38: 38, 16: 16, 49: 49, 50: 50, 27: 27}
+
+Value available in the Store is
+
+{0: 0, 6: 6, 7: 7, 8: 8, 9: 9, 38: 38, 16: 16, 49: 49, 50: 50, 27: 27}
+In tearDown()
+In setUp()
+Cache set with size  10
+
+Cache Store is 
+
+{}
+Test : Cache random
+Cache miss..
+Cache List is
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+1
+setting the search Value in store with key 1
+Cache Store is 
+{1: 1}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+22342
+1
+setting the search Value in store with key 22342
+Cache Store is 
+{1: 1, 22342: 22342}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+22342
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+-3159374328799883145
+22342
+1
+setting the search Value in store with key -3159374328799883145
+Cache Store is 
+{1: 1, 22342: 22342, -3159374328799883145: 'harry'}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+-3159374328799883145
+22342
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+-4689
+-3159374328799883145
+22342
+1
+setting the search Value in store with key -4689
+Cache Store is 
+{1: 1, -4689: -4689, 22342: 22342, -3159374328799883145: 'harry'}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+-4689
+-3159374328799883145
+22342
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+-8147289704323569492
+-4689
+-3159374328799883145
+22342
+1
+setting the search Value in store with key -8147289704323569492
+Cache Store is 
+{1: 1, -4689: -4689, -8147289704323569492: '&&&&', 22342: 22342, -3159374328799883145: 'harry'}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+-8147289704323569492
+-4689
+-3159374328799883145
+22342
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+690040809480
+-8147289704323569492
+-4689
+-3159374328799883145
+22342
+1
+setting the search Value in store with key 690040809480
+Cache Store is 
+{1: 1, 22342: 22342, 690040809480: 690040809480, -8147289704323569492: '&&&&', -4689: -4689, -3159374328799883145: 'harry'}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+690040809480
+-8147289704323569492
+-4689
+-3159374328799883145
+22342
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+-3495090546366936577
+690040809480
+-8147289704323569492
+-4689
+-3159374328799883145
+22342
+1
+setting the search Value in store with key -3495090546366936577
+Cache Store is 
+{1: 1, 22342: 22342, 690040809480: 690040809480, -8147289704323569492: '&&&&', -4689: -4689, -3159374328799883145: 'harry', -3495090546366936577: '0090'}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+-3495090546366936577
+690040809480
+-8147289704323569492
+-4689
+-3159374328799883145
+22342
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+8
+-3495090546366936577
+690040809480
+-8147289704323569492
+-4689
+-3159374328799883145
+22342
+1
+setting the search Value in store with key 8
+Cache Store is 
+{1: 1, 22342: 22342, 690040809480: 690040809480, -8147289704323569492: '&&&&', -4689: -4689, 8: 8, -3159374328799883145: 'harry', -3495090546366936577: '0090'}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+8
+-3495090546366936577
+690040809480
+-8147289704323569492
+-4689
+-3159374328799883145
+22342
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+0
+8
+-3495090546366936577
+690040809480
+-8147289704323569492
+-4689
+-3159374328799883145
+22342
+1
+setting the search Value in store with key 0
+Cache Store is 
+{0: 0, 1: 1, 22342: 22342, 690040809480: 690040809480, -8147289704323569492: '&&&&', -4689: -4689, 8: 8, -3159374328799883145: 'harry', -3495090546366936577: '0090'}
+
+Value available in the Store is
+
+Cache hit..fetching value from Cache
+setting the value to most recent in Cache List
+Cache List is
+0
+8
+-3495090546366936577
+690040809480
+-8147289704323569492
+-4689
+-3159374328799883145
+22342
+1
+
+
+Cache miss..
+Cache List is
+0
+8
+-3495090546366936577
+690040809480
+-8147289704323569492
+-4689
+-3159374328799883145
+22342
+1
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+6272037681056615
+0
+8
+-3495090546366936577
+690040809480
+-8147289704323569492
+-4689
+-3159374328799883145
+22342
+1
+setting the search Value in store with key 6272037681056615
+Cache Store is 
+{0: 0, 1: 1, 22342: 22342, 6272037681056615: '16', 690040809480: 690040809480, -8147289704323569492: '&&&&', -4689: -4689, 8: 8, -3159374328799883145: 'harry', -3495090546366936577: '0090'}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+6272037681056615
+0
+8
+-3495090546366936577
+690040809480
+-8147289704323569492
+-4689
+-3159374328799883145
+22342
+1
+
+
+adding to the Cache 
+
+Cache size exceeded.removing the last item from cache list
+Cache Store is 
+{0: 0, 22342: 22342, 6272037681056615: '16', 690040809480: 690040809480, -8147289704323569492: '&&&&', -4689: -4689, 8: 8, -3159374328799883145: 'harry', -3495090546366936577: '0090'} 
+
+
+New Cache List is 
+
+27568
+6272037681056615
+0
+8
+-3495090546366936577
+690040809480
+-8147289704323569492
+-4689
+-3159374328799883145
+22342
+setting the search Value in store with key 27568
+Cache Store is 
+{0: 0, 22342: 22342, 6272037681056615: '16', 690040809480: 690040809480, -8147289704323569492: '&&&&', -4689: -4689, 27568: 27568, 8: 8, -3159374328799883145: 'harry', -3495090546366936577: '0090'}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+27568
+6272037681056615
+0
+8
+-3495090546366936577
+690040809480
+-8147289704323569492
+-4689
+-3159374328799883145
+22342
+
+
+adding to the Cache 
+
+Cache size exceeded.removing the last item from cache list
+Cache Store is 
+{0: 0, 6272037681056615: '16', 690040809480: 690040809480, -8147289704323569492: '&&&&', -4689: -4689, 27568: 27568, 8: 8, -3159374328799883145: 'harry', -3495090546366936577: '0090'} 
+
+
+New Cache List is 
+
+38
+27568
+6272037681056615
+0
+8
+-3495090546366936577
+690040809480
+-8147289704323569492
+-4689
+-3159374328799883145
+setting the search Value in store with key 38
+Cache Store is 
+{0: 0, 38: 38, 6272037681056615: '16', 690040809480: 690040809480, -8147289704323569492: '&&&&', -4689: -4689, 27568: 27568, 8: 8, -3159374328799883145: 'harry', -3495090546366936577: '0090'}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+38
+27568
+6272037681056615
+0
+8
+-3495090546366936577
+690040809480
+-8147289704323569492
+-4689
+-3159374328799883145
+
+
+adding to the Cache 
+
+Cache size exceeded.removing the last item from cache list
+Cache Store is 
+{0: 0, 38: 38, 6272037681056615: '16', 690040809480: 690040809480, -8147289704323569492: '&&&&', -4689: -4689, 27568: 27568, 8: 8, -3495090546366936577: '0090'} 
+
+
+New Cache List is 
+
+49
+38
+27568
+6272037681056615
+0
+8
+-3495090546366936577
+690040809480
+-8147289704323569492
+-4689
+setting the search Value in store with key 49
+Cache Store is 
+{0: 0, 49: 49, 38: 38, 6272037681056615: '16', 690040809480: 690040809480, -8147289704323569492: '&&&&', -4689: -4689, 27568: 27568, 8: 8, -3495090546366936577: '0090'}
+
+Value available in the Store is
+
+Cache miss..
+Cache List is
+49
+38
+27568
+6272037681056615
+0
+8
+-3495090546366936577
+690040809480
+-8147289704323569492
+-4689
+
+
+adding to the Cache 
+
+Cache size exceeded.removing the last item from cache list
+Cache Store is 
+{0: 0, 49: 49, 38: 38, 6272037681056615: '16', 690040809480: 690040809480, -8147289704323569492: '&&&&', 27568: 27568, 8: 8, -3495090546366936577: '0090'} 
+
+
+New Cache List is 
+
+50
+49
+38
+27568
+6272037681056615
+0
+8
+-3495090546366936577
+690040809480
+-8147289704323569492
+setting the search Value in store with key 50
+Cache Store is 
+{0: 0, 49: 49, 38: 38, 6272037681056615: '16', 690040809480: 690040809480, -8147289704323569492: '&&&&', 27568: 27568, 8: 8, 50: 50, -3495090546366936577: '0090'}
+
+Value available in the Store is
+
+{0: 0, 49: 49, 38: 38, 6272037681056615: '16', 690040809480: 690040809480, -8147289704323569492: '&&&&', 27568: 27568, 8: 8, 50: 50, -3495090546366936577: '0090'}
+In tearDown()
+In setUp()
+Cache set with size  10
+
+Cache Store is 
+
+{}
+Test : Cache with single value repeatedly
+Cache miss..
+Cache List is
+
+
+adding to the Cache 
+
+
+New Cache List is 
+
+1
+setting the search Value in store with key 1
+Cache Store is 
+{1: 1}
+
+Value available in the Store is
+
+Cache hit..fetching value from Cache
+setting the value to most recent in Cache List
+Cache List is
+1
+
+
+Cache hit..fetching value from Cache
+setting the value to most recent in Cache List
+Cache List is
+1
+
+
+Cache hit..fetching value from Cache
+setting the value to most recent in Cache List
+Cache List is
+1
+
+
+Cache hit..fetching value from Cache
+setting the value to most recent in Cache List
+Cache List is
+1
+
+
+Cache hit..fetching value from Cache
+setting the value to most recent in Cache List
+Cache List is
+1
+
+
+Cache hit..fetching value from Cache
+setting the value to most recent in Cache List
+Cache List is
+1
+
+
+Cache hit..fetching value from Cache
+setting the value to most recent in Cache List
+Cache List is
+1
+
+
+Cache hit..fetching value from Cache
+setting the value to most recent in Cache List
+Cache List is
+1
+
+
+Cache hit..fetching value from Cache
+setting the value to most recent in Cache List
+Cache List is
+1
+
+
+Cache hit..fetching value from Cache
+setting the value to most recent in Cache List
+Cache List is
+1
+
+
+Cache hit..fetching value from Cache
+setting the value to most recent in Cache List
+Cache List is
+1
+
+
+Cache hit..fetching value from Cache
+setting the value to most recent in Cache List
+Cache List is
+1
+
+
+Cache hit..fetching value from Cache
+setting the value to most recent in Cache List
+Cache List is
+1
+
+
+Cache hit..fetching value from Cache
+setting the value to most recent in Cache List
+Cache List is
+1
+
+
+Cache hit..fetching value from Cache
+setting the value to most recent in Cache List
+Cache List is
+1
+
+
+{1: 1}
+In tearDown()
+In setUp()
+Cache set with size  10
+
+Cache Store is 
+
+{}
+Test : Empty Cache
+In tearDown()

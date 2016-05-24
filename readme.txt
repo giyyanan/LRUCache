@@ -46,3 +46,11 @@ removeFromCache(value) : removes the given entry stored in Cache store with key 
 
 flush() : flushes the given Cache. both the store and Queue are reset
 
+test.py holds the unit test cases for the test
+
+The test suite can be executed with the following command line 
+
+"
+python test.py
+"
+
