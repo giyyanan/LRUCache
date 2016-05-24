@@ -1,6 +1,6 @@
 class Node(object):
 	
-	def __init__(self,value):
+	def __init__(self,value=None):
 		self.value = value
 		self.prev = None
 		self.next = None
@@ -8,10 +8,15 @@ class Node(object):
 #DoublyLinkedList
 class DLL(object):
 
-	def __init__(self,value):
-		self.first = Node(value)
-		self.last = self.first
-		self.size = 1
+	def __init__(self,value=None):
+		if value == None:
+			self.first = None
+			self.last = None
+			self.size = 0
+		else:
+			self.first = Node(value)
+			self.last = self.first
+			self.size = 1
 
 	def getFirst(self):
 		return self.first
@@ -25,24 +30,32 @@ class DLL(object):
 	def setFirst(self,value):
 		newNode = Node(value)
 
-		newNode.next = self.first
-		newNode.prev = self.first.prev
+		if(self.size == 0):
+			self.first = newNode
+			self.last = newNode
+		else:
+			newNode.next = self.first
+			newNode.prev = self.first.prev
 
-		self.first.prev = newNode
+			self.first.prev = newNode
 
-		self.first = newNode
+			self.first = newNode
 
 		self.size+=1
 
 	def setLast(self,value):
 		newNode = Node(value)
 
-		newNode.next = self.last.next
-		newNode.prev = self.last
+		if(self.size == 0):
+			self.first = newNode
+			self.last = newNode
+		else:
+			newNode.next = self.last.next
+			newNode.prev = self.last
 
-		self.last.next = newNode
+			self.last.next = newNode
 
-		self.last = newNode
+			self.last = newNode
 
 		self.size+=1
 
@@ -59,7 +72,9 @@ class DLL(object):
 			self.size-=1
 
 		else:
-			print "cannot remove the only available Node"
+			self.first = None
+			self.last = None
+			self.size = 0
 
 	def removeLast(self):
 
@@ -74,11 +89,14 @@ class DLL(object):
 			self.size-=1
 
 		else:
-			print "cannot remove the only available Node"
+			self.first = None
+			self.last = None
+			self.size = 0
 
 	def remove(self,value):
 
 		tempNode = self.first
+
 
 		if self.first.value == value:
 			self.removeFirst()
@@ -87,7 +105,6 @@ class DLL(object):
 			self.removeLast()
 
 		else:
-
 			found = True
 			while tempNode.value != value:
 				if(tempNode.next is None):
@@ -103,6 +120,7 @@ class DLL(object):
 
 				tempNode.prev = None
 				tempNode.next = None
+
 				self.size-=1
 
 	def find(self,value):
@@ -110,17 +128,18 @@ class DLL(object):
 
 		tempNode = self.first
 
-		if self.first.value == value:
-			found = True
+		if(self.size>0):
+			if self.first.value == value:
+				found = True
 
-		elif self.last.value == value:
-			found = True
+			elif self.last.value == value:
+				found = True
 
-		else:
-			while tempNode.next is not None:
-				if tempNode.value == value:
-					found = True
-				tempNode = tempNode.next
+			else:
+				while tempNode.next is not None:
+					if tempNode.value == value:
+						found = True
+					tempNode = tempNode.next
 
 		return found
 	
@@ -128,11 +147,11 @@ class DLL(object):
 
 		tempNode = self.first
 		
-		while tempNode.next is not None:
+		if(self.size>0):
+			while tempNode.next is not None:
+				print tempNode.value
+				tempNode = tempNode.next
 			print tempNode.value
-			tempNode = tempNode.next
-
-		print tempNode.value
 
 
 
